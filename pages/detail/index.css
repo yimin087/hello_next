@@ -1,0 +1,15 @@
+
+ .detail  ul {
+      padding: 20px 50px 10px;
+    }
+   .detail  h1 {
+      font-size: 18px;
+      line-height: 40px;
+      font-weight: bold;
+    }
+   .detail  .imgDetail {
+      padding: 0 200px;
+    }
+   .detail  .imgDetail img {
+      display: block;
+    }

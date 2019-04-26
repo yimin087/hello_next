@@ -1,5 +1,6 @@
 import React, {PureComponent} from 'react'
 import fetch from 'isomorphic-unfetch'
+import {Button} from 'antd'
 
 class Home extends PureComponent {
 	constructor(props) {
@@ -19,6 +20,7 @@ class Home extends PureComponent {
 		console.log(this.props)
 		return (
 			<div>
+				<Button type="primary">Button</Button>
 				{this.state.text}
 				{this.props.stars}
 			</div>

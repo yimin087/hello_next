@@ -11,6 +11,7 @@ class MyDocument extends Document {
 			<Html>
 				<Head>
 					<style>{`body { margin: 0 } /* custom! */`}</style>
+					<link rel="stylesheet" href="/static/css/normalize.css" />
 				</Head>
 				<body className="custom_class">
 					<Main />

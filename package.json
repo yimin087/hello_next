@@ -20,7 +20,12 @@
   },
   "homepage": "https://github.com/yimin087/hello_next#readme",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.16.4",
+    "axios": "^0.18.0",
+    "babel-plugin-import": "^1.11.0",
     "isomorphic-unfetch": "^3.0.0",
+    "less": "^2.7.3",
     "next": "^8.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"

@@ -1,13 +1,13 @@
 import React from 'react'
 import App, {Container} from 'next/app'
-import Nav from '../components/nav'
+// import Nav from '../components/nav'
 
 class Layout extends React.Component {
 	render() {
 		const {children} = this.props
 		return (
 			<div className="layout">
-				<Nav />
+				{/* <Nav /> */}
 				{children}
 			</div>
 		)
