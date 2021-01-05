@@ -22,7 +22,7 @@
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
     "antd": "^3.16.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.11.0",
     "isomorphic-unfetch": "^3.0.0",
     "less": "^2.7.3",
